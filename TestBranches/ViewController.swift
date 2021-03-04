@@ -9,10 +9,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let myTest = 2
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("sdf")
+        
+        print("\(self.myTest)")
     }
 
 
