@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         
         print("\(self.myTest)")
         
+        
         getData()
         
     }
