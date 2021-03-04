@@ -17,8 +17,15 @@ class ViewController: UIViewController {
         print("sdf")
         
         print("\(self.myTest)")
+        
+        getData()
+        
     }
 
+    func getData() {
+        
+        print("Data")
+    }
 
 }
 
